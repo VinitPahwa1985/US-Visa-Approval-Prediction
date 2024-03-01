@@ -9,3 +9,20 @@ git push origin main
 conda create -n visa python=3.8 -y
 conpida activate visa
 pip install -r requirements.txt
+
+``` 
+WorkFlow
+
+``` 
+1. constant
+2. config_entity
+3. artifact_entity
+4. conponent
+5. pipeline
+6. app.py / demo.py
+
+``` Export Environment Variables ```
+
+
+export MONGODB_URL="mongodb+srv://<username>:<password>...."
+
