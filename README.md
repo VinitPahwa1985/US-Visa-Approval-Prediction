@@ -26,3 +26,7 @@ WorkFlow
 
 export MONGODB_URL="mongodb+srv://<username>:<password>...."
 
+Screenshots for US visa application:
+
+![alt text](image.png)
+
